@@ -1,0 +1,41 @@
+body {
+    background-color: cornflowerblue;
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(194, 71, 71);
+    font-weight: bold;
+}
+
+a {
+    color: rgb(182, 81, 81);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#eggs {
+    height: auto;
+    width: 300px;
+}
+
+#pbj {
+    height: auto;
+    width: 300px;
+}
+
+#smoothie {
+    height: auto;
+    width: 250px;
+}
